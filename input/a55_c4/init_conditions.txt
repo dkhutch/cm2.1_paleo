@@ -1,7 +1,0 @@
-2017 February 21 - David Hutchinson
------------------------------------
-This is a restart of the DeepMIP run using 3xCO2.
-It is initialised with equatorial surface temp of 30 degC,
-and bottom temp of 10 degC.
-Initial state of the atmosphere was taken from the same setup
-as the Her_htid run, except that Surface_geopotential was added.
