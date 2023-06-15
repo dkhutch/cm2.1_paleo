@@ -1,0 +1,28 @@
+queue: normal
+project: y99
+walltime: 04:00:00
+ncpus: 48
+mem: 30GB
+jobname: a55_c2
+
+model: mom
+input: 
+   - /g/data/y99/dkh157/mom/input/a55_c2
+exe: /g/data/y99/dkh157/mom/bin/fms_CM2M.x
+
+qsub_flags: '-j oe'
+
+storage:
+      gdata:
+            - y99
+            - hh5
+      scratch:
+            - y99
+
+collate:
+   walltime: 01:00:00
+   mem: 2GB
+   exe: /g/data/y99/dkh157/mom/bin/mppnccombine
+
+#postscript: moc.sh
+restart_freq: 1
