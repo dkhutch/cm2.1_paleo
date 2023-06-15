@@ -1,0 +1,8 @@
+2018 April 20 - David Hutchinson
+--------------------------------
+This is a pre-industrial control run using the same resolution as the 
+late Eocene / early Oligocene model. I.e. 1x1.5 deg ocean and 3x3.75 atmos.
+This has been configured as a 'same resolution' version to validate the 
+gridding setup and the ability of our topographic setup to a modern day 
+control run, which we can verify using a dense set of observations and therefore
+see what might potentially be going wrong in our setup.
