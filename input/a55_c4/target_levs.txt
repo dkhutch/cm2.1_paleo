@@ -1,0 +1,14 @@
+1 x CO2  286 ppm
+3 x CO2  858 ppm
+6 x CO2  1716 ppm
+12 x CO2 3432 ppm
+
+Equivalent 6 x CO2:
+CO2 = 1600 ppm
+N20 = 435.2 ppb
+CH4 = 804.9 ppb
+
+Equivalent 12 x CO2:
+CO2 = 1600 ppm
+N20 = 4296 ppb
+CH4 = 804.9 ppb
